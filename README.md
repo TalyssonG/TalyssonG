@@ -7,8 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/talysson.gadelha/?hl=pt-br)](https://www.instagram.com/talysson.gadelha/?hl=pt-br) 
 
 
- :purple_heart:   React Native
+ :yellow_heart:   JavaScript
 - :computer:   Html, Css, Javascript
-- 💬   Ask me about: tech, games, movies
+- 💬   Passionate about web design and development
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fhugoduarte&show_icons=true" alt="fhugoduarte" /> </p>
