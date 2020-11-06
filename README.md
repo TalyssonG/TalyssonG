@@ -14,6 +14,5 @@ I'm Talysson Gadêlha, I'm a front-end developer
 
  :yellow_heart:   JavaScript
 - :computer:   Html, Css, JavaScript, React Native
-- 💬   Passionate about web design and development
-
-
+- 💬   Passionate about web design and development <br>
+- Meu site: https://talyssong.github.io/Portifolio/
