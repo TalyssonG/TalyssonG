@@ -1,4 +1,4 @@
-### What's up my friends 
+###  What's up my friends 
 
 
 
@@ -8,7 +8,7 @@
 
 
  :yellow_heart:   JavaScript
-- :computer:   Html, Css, Javascript
+- :computer:   Html, Css, Javascript, React Native
 - 💬   Passionate about web design and development
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fhugoduarte&show_icons=true" alt="fhugoduarte" /> </p>
+
