@@ -12,7 +12,7 @@ I'm Talysson Gadêlha, I'm a front-end developer
 
 
  :yellow_heart:   JavaScript
-- :computer:   Html, Css, Javascript, React Native
+- :computer:   Html, Css, JavaScript, React Native
 - 💬   Passionate about web design and development
 
 
