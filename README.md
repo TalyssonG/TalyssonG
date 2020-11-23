@@ -15,7 +15,7 @@
 
 
 
- :yellow_heart:   JavaScript
+ :yellow_heart:   JavaScrip
 - :computer:   Html, Css, JavaScript, React Native
 - 💬   Passionate about web design and development <br>
 - 👨‍💻 My site: https://talyssong.github.io/Portifolio/
