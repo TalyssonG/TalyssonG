@@ -2,9 +2,7 @@
 
   I'm Talysson Gadêlha, I'm a front-end developer
 
-<p>
-_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_eui2=AeG16CLSoyWMKDMIuzVuHg1CTt6EeAwppbBO3oR4DCmlsFbW84-N_wDUFWzIMHJe1k-TfUPR8DtokFhswy0vuHm-&_nc_ohc=5pyfTmO_WeMAX-wUMQu&_nc_ht=scontent.ffor17-1.fna&oh=3ade97050c1ae45aef0eb75744927614&oe=5FDC7E7B" alt="CL Thumb" border="0" width="100%">
- </p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talysson-gadêlha-a174561b3/)](https://www.linkedin.com/in/talysson-gadêlha-a174561b3/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/talysson.gadelha/?hl=pt-br)](https://www.instagram.com/talysson.gadelha/?hl=pt-br) 
