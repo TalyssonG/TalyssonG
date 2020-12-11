@@ -26,7 +26,7 @@ Passionate about Design! </p>
 
  :yellow_heart:   JavaScript
 - :computer:   Html, Css, JavaScript, React Native
-- 💬   Passionate about web design and development <br>
+- 💬   Passionate about web design <br>
 - 👨🏻‍💻 My site:https://talyssong.github.io/Portifolio-Meu-site/.
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
