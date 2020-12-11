@@ -16,14 +16,12 @@ Já estudei:
 -Poo/Java, Php, banco de dados, Mysql.
 Apaixonado por Design! </p>
 
-<p> USA- Computer Technician
+<p> US- Computer Technician
 -Experience in web development with Html, Css, JavaScript and React Native
 -Git and GitHub
 I have studied:
 -Poo / Java, Php, database, Mysql.
 Passionate about Design! </p>
-
-
 
 
  :yellow_heart:   JavaScript
