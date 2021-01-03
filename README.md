@@ -13,7 +13,8 @@
 • Experience in web development with Html, Css and JavaScript.
 knowledge:
 • React Native.
-• Git and GitHub
+• Git and GitHub 
+  
 I have studied:
 • java / poo, php, mysql, design, bootstrap
 • Passionate about Design</p>
