@@ -9,15 +9,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/talysson.gadelha/?hl=pt-br)](https://www.instagram.com/talysson.gadelha/?hl=pt-br) 
 <br>
 
-<p> • Computer Technician
-• Experience in web development with Html, Css and JavaScript.
-knowledge:
-• React Native.
-• Git and GitHub 
-  
-I have studied:
-• java / poo, php, mysql, design, bootstrap
-• Passionate about Design</p>
 
 
  :yellow_heart:   JavaScript
