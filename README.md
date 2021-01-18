@@ -14,7 +14,7 @@
  :yellow_heart:   JavaScript
 - :computer:   Html, Css, JavaScript, NodeJS-ReactJS-React Native
 - 💬   Passionate about web design <br>
-- 👨🏻‍💻 My site:https://talyssong.github.io/Portifolio-Meu-site/.
+- 👨🏻‍💻 My site:https://talyssong.github.io/Portifolio-Meu-site/
 <p align="left">
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
