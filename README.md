@@ -11,9 +11,8 @@
 
 
 
-
-- :computer:   Html, Css, JavaScript, NodeJS-ReactJS-React Native
 - :yellow_heart:   JavaScript
+- :computer:   Html, Css, JavaScript, NodeJS-ReactJS-React Native
 - 💬   Passionate about web design <br>
 - 👨🏻‍💻 My site:https://talyssong.github.io/Portifolio-Meu-site/
 <p align="left">
