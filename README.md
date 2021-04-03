@@ -11,6 +11,6 @@ I'm a front end  developer :computer:
 </p>
 
 - :yellow_heart: JavaScript
-- :computer:   Html, Css, JavaScript, React Native.
+- :computer:   Html, Css, JavaScript, React Native, Node.
 - 💬   Passionate about web design <br>
 - 👨🏻‍💻 My site: https://talyssong.github.io/Portifolio-Meu-site/
