@@ -9,7 +9,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> hello my friends, welcome! <br>
 <br>
 <p>
-I'm Talysson Gadêlha
+I'm Talysson Gadêlha.
 I'm a front end  developer :computer:
 </p>
 
