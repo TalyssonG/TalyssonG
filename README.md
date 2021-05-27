@@ -13,6 +13,5 @@ I'm Talysson Gadêlha.
 I'm a front end  developer :computer:
 </p>
 
-- :yellow_heart: JavaScript
 - 🚀 Html, Css, JavaScript, ReactJS
 - 💻 My site: https://talyssong.github.io/Portifolio-Meu-site/
