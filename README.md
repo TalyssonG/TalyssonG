@@ -10,7 +10,7 @@
 <br>
 <p>
 I'm Talysson Gadêlha
-I'm a front end  developer! :computer:
+I'm a front end developer! :computer:
 </p>
 
 - 🚀  HTML, CSS, JAVASCRIPT, REACT
