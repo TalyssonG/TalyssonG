@@ -13,5 +13,5 @@ I'm Talysson Gadêlha
 I'm a front end developer! :computer:
 </p>
 
-- 🚀  HTML, CSS, JAVASCRIPT, REACT.
+- 🚀  HTML, CSS, JAVASCRIPT, REACT
 - 💻 My site: https://talyssong.github.io/Portifolio-Meu-site/
